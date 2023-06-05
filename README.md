@@ -1,11 +1,11 @@
 # 一、项目准备篇
-================================================================
+
 ## 1、更改本地前端启动端口号
-   -  将 package.json 中的 scripts 中的 dev 由 vite 改为 `vite --port 2023`
-   `"scripts": {`
-      `"dev": "vite --port 2023",`
-      `"build": "vue-tsc && vite build",`
-      `"preview": "vite preview"`
+   -  将 package.json 中的 scripts 中的 dev 由 vite 改为 `vite --port 2023`<br>
+   `"scripts": {`<br>
+      `"dev": "vite --port 2023",`<br>
+      `"build": "vue-tsc && vite build",`<br>
+      `"preview": "vite preview"`<br>
    `},`
 ----------------------------------------------------------------
 ## 2、git 篇
